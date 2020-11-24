@@ -4,3 +4,13 @@
 <a href="https://instagram.com/tocuraa"><img height="30" src="https://github.com/mauricioTocura/mauricioTocura/blob/main/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mauriciotocura/"><img height="30" src="https://github.com/mauricioTocura/mauricioTocura/blob/main/icons/linkedin.png?raw=true"></a>
 </p>
+
+# Hello World! 👋
+
+I'm Mauricio from Brazil, and I'm always looking for something new to learn!
+
+## Skills and experience
+
+- Java
+- HTML, CSS, JS
+- Learning Python and Kotlin 
