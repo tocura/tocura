@@ -12,5 +12,5 @@ I'm Mauricio from Brazil, and I'm always looking for something new to learn!
 ## Skills and experience
 
 - Java
-- HTML, CSS, JS
-- Learning Python and Kotlin 
+- HTML, CSS, JS, Node.JS, React + Redux
+- Learning Python
