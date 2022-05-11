@@ -7,10 +7,10 @@
 
 # Hello World! 👋
 
-I'm Mauricio from Brazil, and I'm always looking for something new to learn!
+I'm Mauricio but you can call me Tocura, I'm from Brazil, and I'm always looking for something new to learn!
 
 ## Skills and experience
 
 - Java
-- HTML, CSS, JS, Node.JS, React + Redux
-- Learning Python
+- Golang
+- Basics of HTML, CSS, JS, Node.JS, React
