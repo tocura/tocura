@@ -1,16 +1,13 @@
-![mauricioTocura header](https://github.com/mauricioTocura/mauricioTocura/blob/main/gif/haikyuu.gif)
-
 <p align='center'>
-<a href="https://instagram.com/tocuraa"><img height="30" src="https://github.com/mauricioTocura/mauricioTocura/blob/main/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mauriciotocura/"><img height="30" src="https://github.com/mauricioTocura/mauricioTocura/blob/main/icons/linkedin.png?raw=true"></a>
 </p>
 
-# Hello World! 👋
+# Hi 👋
 
-I'm Mauricio but you can call me Tocura, I'm from Brazil, and I'm always looking for something new to learn!
+My name is Mauricio but you can call me Tocura and I'm currently a **Software Engineer** at **Mercado Pago**
 
-## Skills and experience
+🧰 I'm currently working in the Open Finance, working on developing solutions for both payments (phase 3) and data sharing (phase 2), both on the regulatory side and on the use cases that add value to the company and its users
 
-- Java
-- Golang
-- Basics of HTML, CSS, JS, Node.JS, React
+👨‍💻 I have some experiences with: **Go**, **Java**, **Spring Boot**, **SQL**, **NoSQL**, **Kibana**, **Datadog** and a others technologies
+
+🌱 I'm always looking to learn something new and to improve my skills
