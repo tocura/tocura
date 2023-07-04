@@ -2,7 +2,7 @@
 
 My name is Mauricio but you can call me Tocura and I'm currently a **Software Engineer** at **Mercado Pago**
 
-🧰 I'm currently working in the Open Finance, working on developing solutions for both payments (phase 3) and data sharing (phase 2), both on the regulatory side and on the use cases that add value to the company and its users
+🧰 I'm currently working in the [Open Finance Brasil](https://openfinancebrasil.org.br), working on developing solutions for both payments (phase 3) and data sharing (phase 2), both on the regulatory side and on the use cases that add value to the company and its users
 
 👨‍💻 I have some experiences with: **Go**, **Java**, **Spring Boot**, **SQL**, **NoSQL**, **Kibana**, **Datadog** and a others technologies
 
